@@ -12,11 +12,3 @@
 - 📡 Simple protocol design for custom expansion
 
 ---
-
-## 🗂️ Project Structure
-
-RemoteCLI/
-├── client/        # Source code and build tools for the client executable
-├── server/        # Source code and build tools for the server executable
-├── LICENSE
-└── README.md
