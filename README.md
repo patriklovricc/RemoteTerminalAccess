@@ -11,8 +11,8 @@
 - 🧱 Minimal dependencies, portable deployment
 - 📡 Simple protocol design for custom expansion
 
----
+
 HOW TOU USE:
-  run in terminal ./server on machine that you want to connect to
-  run on your machine ./client <ip address> and it should work
-  //if you only run ./client it would default the address to 127.0.0.1
+-   run in terminal ./server on machine that you want to connect to
+-   run on your machine ./client <ip address> and it should work
+-   if you only run ./client it would default the address to 127.0.0.1
